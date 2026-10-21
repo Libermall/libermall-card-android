@@ -69,7 +69,6 @@ There is no iOS app yet. Open the [web version](https://card.libermall.com/web) 
 ## Support
 
 - Telegram: [@YouLibermallbot](https://t.me/YouLibermallbot)
-- Email: [support@libermall.com](mailto:support@libermall.com)
 - Security issues: see the [organisation security policy](https://github.com/Libermall/.github/blob/main/SECURITY.md)
 
 ---
@@ -101,7 +100,7 @@ There is no iOS app yet. Open the [web version](https://card.libermall.com/web) 
 
 ### Поддержка
 
-Telegram [@YouLibermallbot](https://t.me/YouLibermallbot) · [support@libermall.com](mailto:support@libermall.com)
+Telegram [@YouLibermallbot](https://t.me/YouLibermallbot)
 
 ---
 
